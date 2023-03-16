@@ -1,4 +1,3 @@
-![Snipaste_2023-03-14_10-56-28](readme.assets/Snipaste_2023-03-14_10-56-28-16787875035002.png)
 
 # Chiaki-CLI
 
@@ -11,19 +10,16 @@
    ```shell
    npm install chiaki-cli
    ```
-
 2. 查看版本
 
    ```shell
    chiaki --version
    ```
-
 3. 查看指令
 
    ```shell
    chiaki --help
    ```
-
 4. 创建项目
 
    ```shell
