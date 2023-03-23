@@ -57,8 +57,14 @@
    chiaki create <project-name>
    ```
 
+7. 删除项目
+
+   ```shell
+   chiaki delete [name]
+   ```
+
 ## Version
 
 + **1.0.0：**通过命令创建预设好的模板,安装包
-+ **1.0.1：**增加了`add`，`checkout`方法
++ **1.0.1：**增加了`add`，`checkout`，`delete`方法
 
