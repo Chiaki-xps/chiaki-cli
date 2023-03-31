@@ -1,13 +1,12 @@
 {
   "name": "chiaki-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cli helps create projects quickly",
   "repository": {
     "type": "git",
     "url": "https://github.com/Chiaki-xps/chiaki-cli"
   },
   "homepage": "https://github.com/Chiaki-xps/chiaki-cli",
-  "type": "module",
   "main": "index.js",
   "bin": {
     "chiaki": "index.js"
